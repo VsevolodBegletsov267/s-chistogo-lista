@@ -1,5 +1,5 @@
 .page {
-    background-color: black;
+    background-color: darkgrey;
     max-width: 360px;
     margin: auto;
 }
@@ -25,7 +25,7 @@
 }
 
 .header__link {
-    color: white;
+    color: black;
     margin-bottom: 5px;
     text-decoration: none;
 }
@@ -43,7 +43,7 @@
 }
 
 .span {
-    color: white;
+    color: black;
     font-size: 70px;
 }
 
@@ -75,18 +75,18 @@
 
 .intro__title {
     margin: 0;
-    color: white;
+    color: black;
     font-size: 16px;
     width: 200px;
 }
 
 .intro__date {
-    color: white;
+    color: black;
     font-size: 16px;
 }
 
 .intro__main-text {
-    color: white;
+    color: black;
     font-size: 16px;
     margin-bottom: 24px;
 }
@@ -131,7 +131,7 @@
 }
 
 .theme-white {
-    color: white;
+    color: black;
 }
 
 .card {
@@ -190,7 +190,7 @@
 }
 
 .footer__author {
-    color: white;
+    color: black;
     font-size: 16px;
     margin: 20px 0 20px 20px;
 }
@@ -200,7 +200,7 @@
 }
 
 .footer__item {
-    color: white;
+    color: black;
     font-size: 14px;
     text-decoration: none;
     margin-right: 16px;
